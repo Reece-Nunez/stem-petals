@@ -39,7 +39,7 @@ export default function SteamNavbar() {
   return (
     <Navbar className="top-0">
       {/* Desktop */}
-      <NavBody className="bg-sage-800/90">
+      <NavBody className="bg-sage-500/95">
         <SteamLogo />
         <NavItems
           items={navItems}
@@ -55,7 +55,7 @@ export default function SteamNavbar() {
       </NavBody>
 
       {/* Mobile */}
-      <MobileNav className="bg-sage-800/90">
+      <MobileNav className="bg-sage-500/95">
         <MobileNavHeader>
           <SteamLogo />
           <MobileNavToggle
@@ -66,14 +66,14 @@ export default function SteamNavbar() {
         <MobileNavMenu
           isOpen={mobileOpen}
           onClose={() => setMobileOpen(false)}
-          className="bg-sage-800"
+          className="bg-sage-500"
         >
           {navItems.map((item) => (
             <a
               key={item.link}
               href={item.link}
               onClick={() => setMobileOpen(false)}
-              className="block w-full px-4 py-2 text-white/90 font-medium hover:text-white hover:bg-sage-700 rounded-lg transition-colors"
+              className="block w-full px-4 py-2 text-white/90 font-medium hover:text-white hover:bg-sage-600 rounded-lg transition-colors"
             >
               {item.name}
             </a>
