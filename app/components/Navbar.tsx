@@ -48,7 +48,7 @@ export default function SteamNavbar() {
         <NavbarButton
           href="#contact"
           variant="primary"
-          className="bg-oak-500 text-white hover:bg-oak-600 border-0 rounded-full shadow-[0_2px_8px_rgba(160,125,82,0.3)]"
+          className="bg-oak-400 text-sage-900 hover:bg-oak-300 border-0 rounded-full shadow-[0_2px_8px_rgba(250,181,16,0.4)]"
         >
           Get in Touch
         </NavbarButton>
@@ -81,7 +81,7 @@ export default function SteamNavbar() {
           <NavbarButton
             href="#contact"
             variant="primary"
-            className="w-full bg-oak-500 text-white hover:bg-oak-600 border-0 rounded-full shadow-[0_2px_8px_rgba(160,125,82,0.3)]"
+            className="w-full bg-oak-400 text-sage-900 hover:bg-oak-300 border-0 rounded-full shadow-[0_2px_8px_rgba(250,181,16,0.4)]"
           >
             Get in Touch
           </NavbarButton>

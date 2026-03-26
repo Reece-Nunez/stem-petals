@@ -145,7 +145,7 @@ export default function Hero() {
               >
                 <motion.path
                   d="M2 8C50 2 150 2 198 8"
-                  stroke="#b8956a"
+                  stroke="#fab510"
                   strokeWidth="3"
                   strokeLinecap="round"
                   initial={{ pathLength: 0 }}
