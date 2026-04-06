@@ -14,7 +14,8 @@ import {
 
 const navItems = [
   { name: "About", link: "#about" },
-  { name: "Classes", link: "#classes" },
+  { name: "Classes", link: "/classes" },
+  { name: "Gift Cards", link: "/gift-cards" },
   { name: "Contact", link: "#contact" },
 ];
 

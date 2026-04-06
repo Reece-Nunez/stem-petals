@@ -101,10 +101,10 @@ export default function UpcomingClasses() {
               </p>
 
               <a
-                href="#contact"
+                href="/classes"
                 className="mt-5 group/btn inline-flex items-center justify-center rounded-full border border-sage-300 bg-white px-4 py-2 text-sm font-medium text-sage-700 hover:bg-sage-500 hover:text-white hover:border-sage-500 transition-all duration-200"
               >
-                Interested? Join Waitlist
+                View &amp; Book Class
                 <ArrowRight className="ml-1.5 h-3.5 w-3.5 transition-transform duration-200 group-hover/btn:translate-x-0.5" />
               </a>
             </motion.div>

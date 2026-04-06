@@ -25,8 +25,8 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#classes" className="text-sm text-sage-400 hover:text-white transition-colors duration-200">
-                  Upcoming Classes
+                <a href="/classes" className="text-sm text-sage-400 hover:text-white transition-colors duration-200">
+                  Classes
                 </a>
               </li>
               <li>
