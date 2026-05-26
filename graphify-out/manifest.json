@@ -1,0 +1,132 @@
+{
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\eslint.config.mjs": {
+    "mtime": 1774475856.5422895,
+    "ast_hash": "dfa1f5f6a7037bf39dc510f30b180002",
+    "semantic_hash": "dfa1f5f6a7037bf39dc510f30b180002"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\next.config.ts": {
+    "mtime": 1774475856.6711402,
+    "ast_hash": "9b77af189a21a7a64e4bd7a426f64176",
+    "semantic_hash": "9b77af189a21a7a64e4bd7a426f64176"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\package.json": {
+    "mtime": 1774488883.3190105,
+    "ast_hash": "d9d1ed94d3eaccc23a34f2cc7fa3b59d",
+    "semantic_hash": "d9d1ed94d3eaccc23a34f2cc7fa3b59d"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\postcss.config.mjs": {
+    "mtime": 1774475856.5716085,
+    "ast_hash": "239f3ebf717465dc636818a1a619398d",
+    "semantic_hash": "239f3ebf717465dc636818a1a619398d"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\tsconfig.json": {
+    "mtime": 1774475859.7801132,
+    "ast_hash": "02fc19ad21338c2ab820a70136310db4",
+    "semantic_hash": "02fc19ad21338c2ab820a70136310db4"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\.claude\\settings.local.json": {
+    "mtime": 1774489382.101348,
+    "ast_hash": "66e4172605176816a15cc9e335216ca5",
+    "semantic_hash": "66e4172605176816a15cc9e335216ca5"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\layout.tsx": {
+    "mtime": 1774476760.695858,
+    "ast_hash": "ac6c953712f787de0dd2356ba7849df4",
+    "semantic_hash": "ac6c953712f787de0dd2356ba7849df4"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\page.tsx": {
+    "mtime": 1774491935.852409,
+    "ast_hash": "9d0badf1ffa46b021cfc6dcdb32aeb92",
+    "semantic_hash": "9d0badf1ffa46b021cfc6dcdb32aeb92"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\api\\contact\\route.ts": {
+    "mtime": 1774477104.495191,
+    "ast_hash": "644d9c887df76a226d2e58ef8957fe0a",
+    "semantic_hash": "644d9c887df76a226d2e58ef8957fe0a"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\classes\\page.tsx": {
+    "mtime": 1774989634.5025177,
+    "ast_hash": "74e3c34f11d0e4a2d7b93a54df60bc81",
+    "semantic_hash": "74e3c34f11d0e4a2d7b93a54df60bc81"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\components\\About.tsx": {
+    "mtime": 1774490248.0842044,
+    "ast_hash": "09a12f25268582730125b61cec1d6af9",
+    "semantic_hash": "09a12f25268582730125b61cec1d6af9"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\components\\ContactForm.tsx": {
+    "mtime": 1774490251.6454034,
+    "ast_hash": "3360ce006c0eeafcb4d0c46e5ad5f07d",
+    "semantic_hash": "3360ce006c0eeafcb4d0c46e5ad5f07d"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\components\\Footer.tsx": {
+    "mtime": 1774988347.450431,
+    "ast_hash": "54b601b77da87869daedc067a10f2b2b",
+    "semantic_hash": "54b601b77da87869daedc067a10f2b2b"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\components\\Hero.tsx": {
+    "mtime": 1774491897.107399,
+    "ast_hash": "24753b45723cef694ea4679870fb7d96",
+    "semantic_hash": "24753b45723cef694ea4679870fb7d96"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\components\\Navbar.tsx": {
+    "mtime": 1774992388.2395391,
+    "ast_hash": "81b23b971bb6a2d8d64bbb0d8a4e67f0",
+    "semantic_hash": "81b23b971bb6a2d8d64bbb0d8a4e67f0"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\components\\ScrollProgress.tsx": {
+    "mtime": 1774491927.2667768,
+    "ast_hash": "0d4fe264079f607798e27ff478e5d7a8",
+    "semantic_hash": "0d4fe264079f607798e27ff478e5d7a8"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\components\\ScrollToTop.tsx": {
+    "mtime": 1774491921.4964755,
+    "ast_hash": "290ff1c38057d492a0220e13a8ec2289",
+    "semantic_hash": "290ff1c38057d492a0220e13a8ec2289"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\components\\UpcomingClasses.tsx": {
+    "mtime": 1774988205.9601557,
+    "ast_hash": "cc156120743b13b0b780ad209226bb51",
+    "semantic_hash": "cc156120743b13b0b780ad209226bb51"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\components\\ui\\resizable-navbar.tsx": {
+    "mtime": 1774493215.9175253,
+    "ast_hash": "148cf5398a9b87e8bd3d9d525663c15d",
+    "semantic_hash": "148cf5398a9b87e8bd3d9d525663c15d"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\gift-cards\\page.tsx": {
+    "mtime": 1774992383.1453974,
+    "ast_hash": "1ac837f7c8df9576e1906026500e9baf",
+    "semantic_hash": "1ac837f7c8df9576e1906026500e9baf"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\app\\lib\\utils.ts": {
+    "mtime": 1774487358.7579744,
+    "ast_hash": "d9837f38cc05303254571985e3164050",
+    "semantic_hash": "d9837f38cc05303254571985e3164050"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\AGENTS.md": {
+    "mtime": 1774475971.303284,
+    "ast_hash": "9e09241799026ac05be315a2f0b50055",
+    "semantic_hash": "9e09241799026ac05be315a2f0b50055"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\CLAUDE.md": {
+    "mtime": 1774475971.3048427,
+    "ast_hash": "5c27369b226fcf2be8a6cfe52224e767",
+    "semantic_hash": "5c27369b226fcf2be8a6cfe52224e767"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\README.md": {
+    "mtime": 1774475856.5201573,
+    "ast_hash": "f15aaa42d5d299d091b1171097ea56ad",
+    "semantic_hash": "f15aaa42d5d299d091b1171097ea56ad"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\public\\icon.png": {
+    "mtime": 1774489803.3157198,
+    "ast_hash": "ed602ce899a293337d15f1dff78e9327",
+    "semantic_hash": "ed602ce899a293337d15f1dff78e9327"
+  },
+  "C:\\Users\\reece\\Documents\\NunezDev\\stem-petals\\public\\logo.png": {
+    "mtime": 1774489339.7019937,
+    "ast_hash": "00b4e83ad4c0f0e094add3fc4ffa7e52",
+    "semantic_hash": "00b4e83ad4c0f0e094add3fc4ffa7e52"
+  }
+}
